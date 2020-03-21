@@ -1,6 +1,6 @@
 # NodeJS GRPC Rest
 
-Simple package to call the GRPC function
+Simple package to call the GRPC function. This program was made because the GRPC installation is very annoying
 
 ## Installation With Docker
 
