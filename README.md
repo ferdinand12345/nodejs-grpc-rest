@@ -6,9 +6,14 @@ Simple package to call the GRPC function
 
 ```bash
 # Pull Docker Image
+docker pull ferdshinoda/nodejs-grpc-rest:latest
+# Deploy to Docker Container
+docker run -d --name nodejs-grpc-rest -p 3000:3000 ferdshinoda/nodejs-grpc-rest
 ```
 
 ## NodeJS GRPC Collections [/]
+
+Existing routing without parameters, just hit http://YOUR_HOST:PORT with GET and POST methods. Anda bisa mengunduh Postman Collections [disini](https://www.getpostman.com/collections/50c1d1a510c0597406e7).
 
 ### Get
 
