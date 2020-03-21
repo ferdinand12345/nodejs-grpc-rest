@@ -13,7 +13,7 @@ docker run -d --name nodejs-grpc-rest -p 3000:3000 ferdshinoda/nodejs-grpc-rest
 
 ## NodeJS GRPC Collections [/]
 
-Existing routing without parameters, just hit http://YOUR_HOST:PORT with GET and POST methods. Anda bisa mengunduh Postman Collections [disini](https://www.getpostman.com/collections/50c1d1a510c0597406e7).
+Existing routing without parameters, just hit http://YOUR_HOST:PORT with GET and POST methods. Download this [Postman Collections](https://www.getpostman.com/collections/50c1d1a510c0597406e7) for examples of use.
 
 ### Get
 
