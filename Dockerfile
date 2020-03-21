@@ -28,6 +28,9 @@ WORKDIR /usr/src/app
 # Install app dependencies
 COPY package.json /usr/src/app
 
+# Install required packages
+RUN npm install
+
 # Bundle app source
 COPY . /usr/src/app
 
